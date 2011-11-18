@@ -1,4 +1,4 @@
-var serviceURL = "http://localhost/directory/services/";
+var serviceURL = "http://coenraets.org/apps/directory/services/";
 
 var employees;
 
